@@ -1,0 +1,9 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+bin/
+obj/
+TestResults/
+Footer
+© 2023 GitHub, Inc.
