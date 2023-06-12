@@ -1,6 +1,6 @@
 ﻿namespace Sorting
 {
-    internal class QuickSort
+    public class QuickSort
     {
         public static void Sort(int[] array, int low, int high)
         {
